@@ -1,5 +1,3 @@
-U.S. Wind Market Investment Sprint (Tableau + Deck) — Group data sprint analysing U.S. wind market growth, OEM/operator concentration and regional hotspots to inform investment priorities.
-=======
 # U.S. Wind Market Investment Overview
 
 ## Links
