@@ -28,4 +28,3 @@ Group data sprint analysing the U.S. wind energy market for an investment-style 
 ## Files in this repo
 - `wind_market_investment_overview.twbx` — Tableau packaged workbook (offline view)
 - `wind_turbine_market_sprint.pdf` — final sprint deck (quickest way to view)
->>>>>>> df66afd (Add wind market dashboard and sprint deck)
